@@ -15,4 +15,6 @@ Bachelor of Business Administration - University of Notre Dame
 - C# *(Basic)*
 - Unity for Game Development *(Basic)*
 
+  ## Projects
+
 
