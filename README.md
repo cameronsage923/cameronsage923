@@ -5,6 +5,11 @@ I am an undergraduate student at the University of Notre Dame majoring in Financ
 
 ## Education
 
-Bachelor of Business Administration - **University of Notre Dame**
+Bachelor of Business Administration - University of Notre Dame
 
 ## Technical Skills
+
+- Python *(Intermediate)*
+    - Seaborn *(Intermediate)*
+- C# *(Basic)*
+- Unity for Game Development *(Basic)*
