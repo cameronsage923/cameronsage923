@@ -11,5 +11,8 @@ Bachelor of Business Administration - University of Notre Dame
 
 - Python *(Intermediate)*
     - Seaborn *(Intermediate)*
+- Excel *(Intermediate)*
 - C# *(Basic)*
 - Unity for Game Development *(Basic)*
+
+
