@@ -25,7 +25,7 @@ By the end of this semester, I hope to:
 
 ## Contact Links
 
-Email me: coglesb2@nd.edu
+Email me: coglesb2@nd.edu  
 Connect with me on LinkedIn: https://www.linkedin.com/in/cameron-sage-oglesby/ 
 
 
