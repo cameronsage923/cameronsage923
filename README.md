@@ -11,6 +11,8 @@ Bachelor of Business Administration - University of Notre Dame ⛪
 
 This semester I will be developing a multi-feature app that incorporates data visualization, processing, and machine learning to address a practical challenge.
 
+I have most recently uploaded my first project, The Penguin App, in my python project portfolio!
+
 ## Skills
 
 - Excel
