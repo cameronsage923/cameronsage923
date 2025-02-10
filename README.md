@@ -19,9 +19,9 @@ Bachelor of Business Administration - University of Notre Dame ⛪
 ## Goals
 
 By the end of this semester, I hope to:
-    1) become an advanced Python coder,
-    2) develop my data analysis and storytelling skills and apply them in a real-world context, and
-    3) build a respectable GitHub project portfolio that displays my skills and hard work. 
+1. Become an advanced Python coder
+2. Develop my data analysis and storytelling skills and apply them in a real-world context
+3. Build a respectable GitHub project portfolio that displays my skills and hard work
 
 ## Contact Links
 
