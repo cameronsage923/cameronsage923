@@ -7,14 +7,28 @@ I am an undergraduate student at the **University of Notre Dame** majoring in Fi
 
 Bachelor of Business Administration - University of Notre Dame ⛪
 
-## Technical Skills
+## Current Projects
 
-- Python *(Intermediate)*
-    - Seaborn *(Intermediate)*
-- Excel *(Intermediate)*
-- C# *(Basic)*
-- Unity for Game Development *(Basic)*
 
-## Projects
+## Skills
+
+- Excel
+- Coding in Python and *(basic)* C#
+- Unity for Game Development 
+
+## Goals
+
+By the end of this semester, I hope to:
+    1) become an advanced Python coder,
+    2) develop my data analysis and storytelling skills and apply them in a real-world context, and
+    3) build a respectable GitHub project portfolio that displays my skills and hard work. 
+
+## Contact Links
+
+Email me: coglesb2@nd.edu
+Connect with me on LinkedIn: https://www.linkedin.com/in/cameron-sage-oglesby/ 
+
+
+
 
 
