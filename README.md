@@ -9,6 +9,7 @@ Bachelor of Business Administration - University of Notre Dame ⛪
 
 ## Current Projects
 
+This semester I will be developing a multi-feature app that incorporates data visualization, processing, and machine learning to address a practical challenge.
 
 ## Skills
 
