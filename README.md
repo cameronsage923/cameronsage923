@@ -27,10 +27,6 @@ Deal Visualizer:
 
 ![deal_snapshot](deal_snapshot.png)
 
-Waterfall Modeling:
-
-![REPE_waterfall_example](REPE_waterfall_example.png)
-
 
 ---
 
