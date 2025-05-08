@@ -1,8 +1,11 @@
 # 👋 Hi, I’m Cameron Oglesby.
 
 📍Louisiana 
+
 🎓 University of Notre Dame: Class of 2025
+
 📧 Email: cameronsage.oglesby@gmail.com  
+
 💼 LinkedIn: [Cameron Oglesby](https://www.linkedin.com/in/cameron-sage-oglesby/)
 
 ### About Me 👩
