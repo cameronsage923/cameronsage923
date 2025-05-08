@@ -1,37 +1,25 @@
-## Welcome! My name is Cameron Oglesby...
+# 👋 Hi, I’m Cameron Oglesby.
 
-I am an undergraduate student at the **University of Notre Dame** majoring in Finance 💵📈 and minoring in Real Estate 🏠 and 
-**Computing & Digital Technologies (CDT)** 👩🏼‍💻. I plan to graduate in May 2025 and pursue a career in finance. 
+I’m a Finance major at the University of Notre Dame, graduating in May 2025, with a strong interest in **private equity**, **real estate**, and **data-driven storytelling**.
 
-## Education
+Through coursework and self-directed projects, I’ve developed skills in **Python**, **Streamlit**, **pandas**, **Excel modeling**, and some **SQL**— and I enjoy building interactive tools that bridge finance and technology.
 
-Bachelor of Business Administration - University of Notre Dame ⛪
+---
 
-## Current Projects
+## 🔨 Featured Project
 
-This semester I will be developing a multi-feature app that incorporates data visualization, processing, and machine learning to address a practical challenge.
+### 🏢 [Multifamily Value-Add Deal Visualizer & Waterfall Modeler](https://multifamilyvalueadd.streamlit.app/)
+An interactive Streamlit app that simulates real estate private equity investments.  
+Users can model rent growth, renovation costs, debt, and simulate GP/LP waterfall structures.
 
-I have most recently uploaded my first project, The Penguin App, in my python project portfolio!
+> 📂 [View the repo →](https://github.com/cameronsage923/OGLESBY-Python-Portfolio/StreamlitAppFinal)
 
-## Skills
+---
 
-- Excel
-- Coding in Python and *(basic)* C#
-- Unity for Game Development 
+## 📫 Contact Me
 
-## Goals
+- 📧 cameronsage.oglesby@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/cameron-sage-oglesby/)
 
-By the end of this semester, I hope to:
-1. Become an advanced Python coder
-2. Develop my data analysis and storytelling skills and apply them in a real-world context
-3. Build a respectable GitHub project portfolio that displays my skills and hard work
-
-## Contact Links
-
-Email me: coglesb2@nd.edu  
-Connect with me on LinkedIn: https://www.linkedin.com/in/cameron-sage-oglesby/ 
-
-
-
-
+---
 
