@@ -23,10 +23,6 @@ Users can model rent growth, renovation costs, debt, and simulate GP/LP waterfal
 
 > 📂 [View the repo →](https://github.com/cameronsage923/OGLESBY-Python-Portfolio/StreamlitAppFinal)
 
-Deal Visualizer:
-
-![deal_snapshot](deal_snapshot.png)
-
 
 ---
 
